@@ -1,0 +1,54 @@
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers Foods.csprojAssemblyReference.cache
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.MainMDI.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.Properties.Resources.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers Foods.csproj.GenerateResource.cache
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers Foods.csproj.CoreCompileInputs.cache
+D:\Bakers\Bakers Foods\Bakers Foods\bin\Debug\Bakers Foods.exe.config
+D:\Bakers\Bakers Foods\Bakers Foods\bin\Debug\Bakers Foods.exe
+D:\Bakers\Bakers Foods\Bakers Foods\bin\Debug\Bakers Foods.pdb
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers Foods.exe
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers Foods.pdb
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmManageUsers.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmPOS.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmLogin.resources
+D:\Bakers\Bakers Foods\Bakers Foods\bin\Debug\aa\Bakers Foods.resources.dll
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmAbout.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmBillingReport.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmCustomer.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmCustomersRecord.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmCustomersRecord1.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmPrint.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.InvAnalys.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.Lowprice.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.PrchRpt.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.PurchOvrView.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.InvAnalys.aa.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\aa\Bakers Foods.resources.dll
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmInventoryCategory.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmInventoryCategoryRecord.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmInvoice.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmInVoiceNo.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmOrder.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmOrderRecord.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmOrderRecord1.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmOrders.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmOrdersReport.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmPasswordRecovery.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmPrintOptions.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmRegistration.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmRegistrationDetails.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmRegistrationReport.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmProduct.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmProductsRecord.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmProductsRecord1.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmProductsRecord2.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmSales.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmSalesRecord.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmSalesRecord1.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmSalesReport.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmSearchProduct.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmStock.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmStockDetails.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmStockDetails1.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmVendor.resources
+D:\Bakers\Bakers Foods\Bakers Foods\obj\Debug\Bakers_Foods.frmVendorRecords.resources
